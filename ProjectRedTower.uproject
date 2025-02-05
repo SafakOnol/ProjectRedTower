@@ -12,19 +12,11 @@
 			]
 		},
 		{
-			"Name": "GameplayBehaviors",
+			"Name": "ChaosClothAsset",
 			"Enabled": true
 		},
 		{
-			"Name": "SmartObjects",
-			"Enabled": true
-		},
-		{
-			"Name": "GameplayBehaviorSmartObjects",
-			"Enabled": true
-		},
-		{
-			"Name": "MotionWarping",
+			"Name": "ChaosClothAssetEditor",
 			"Enabled": true
 		}
 	]
